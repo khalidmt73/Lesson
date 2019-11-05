@@ -16,6 +16,7 @@ public static void main(String[] args){
 	f.setVisible(true);	
 	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	//System.out.println("khalid");
+	// JFrame	
 
 }
 
